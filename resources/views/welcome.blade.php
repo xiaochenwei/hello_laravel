@@ -38,7 +38,11 @@
     <body>
         <div class="container">
             <div class="content">
+<<<<<<< HEAD
                 <div class="title">Hello Laravel! - by 陈大大</div>
+=======
+                <div class="title">Hello Laravel! - by chen er da1111111111111111111111</div>
+>>>>>>> 968f3a6... test
             </div>
         </div>
     </body>
